@@ -86,7 +86,7 @@ This project is for educational purposes only. Using third-party tools with Valo
 
 ---
 
-### Special Thanks
+### :rose: Special Thanks
 
 [@Ox85](https://github.com/Ox85) for contributions and support
 
