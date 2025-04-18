@@ -33,21 +33,21 @@ The tool requires these libraries (automatically handled by Maven):
 
 ```xml
 <dependencies>
-  <dependency>
-      <groupId>com.google.code.gson</groupId>
-      <artifactId>gson</artifactId>
-      <version>2.9.1</version>
-  </dependency>
-  <dependency>
-      <groupId>com.github.weisj</groupId>
-      <artifactId>darklaf-core</artifactId>
-      <version>3.0.2</version>
-  </dependency>
-  <dependency>
-      <groupId>commons-io</groupId>
-      <artifactId>commons-io</artifactId>
-      <version>2.11.0</version>
-  </dependency>
+    <dependency>
+        <groupId>com.google.code.gson</groupId>
+        <artifactId>gson</artifactId>
+        <version>2.9.1</version>
+    </dependency>
+    <dependency>
+        <groupId>com.github.weisj</groupId>
+        <artifactId>darklaf-core</artifactId>
+        <version>3.0.2</version>
+    </dependency>
+    <dependency>
+        <groupId>commons-io</groupId>
+        <artifactId>commons-io</artifactId>
+        <version>2.11.0</version>
+    </dependency>
 </dependencies>
 ```
 
