@@ -22,11 +22,13 @@ This tool is a Java-based Valorant agent instalocker that automatically selects 
 ## 📁 Setup
 
 ### 1. Requirements
+
 - Java 16 or higher
 - Valorant must be running (for lockfile access)
 - EU region server only (currently supported)
 
 ### 2. Dependencies
+
 The tool requires these libraries (automatically handled by Maven):
 
 ```xml
