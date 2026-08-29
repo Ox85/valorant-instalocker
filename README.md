@@ -32,7 +32,7 @@
 ## 🚀 Setup & Usage
 
 ```bash
-git clone https://github.com/Ox85/instalocker.git
+git clone https://github.com/Ox85/valorant-instalocker.git
 ```
 
 1. Open the project in **IntelliJ IDEA** and let Maven pull the dependencies (`gson`, `darklaf`, `commons-io`).
